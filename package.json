@@ -1,0 +1,25 @@
+{
+  "name": "virtualcam",
+  "version": "0.1.0",
+  "description": "Send frames to a virtual camera from Node.js",
+  "main": "index.js",
+  "gypfile": true,
+  "scripts": {
+    "build": "node-gyp rebuild",
+    "clean": "node-gyp clean"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/letmaik/node-virtualcam.git"
+  },
+  "keywords": [],
+  "author": "Maik Riechert",
+  "license": "GPL-2.0-only",
+  "bugs": {
+    "url": "https://github.com/letmaik/node-virtualcam/issues"
+  },
+  "dependencies": {
+    "bindings": "^1.5.0",
+    "nan": "^2.14.1"
+  }
+}
