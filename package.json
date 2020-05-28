@@ -1,5 +1,5 @@
 {
-  "name": "virtualcam",
+  "name": "node-virtualcam",
   "version": "0.1.0",
   "description": "Send frames to a virtual camera from Node.js",
   "main": "index.js",
