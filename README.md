@@ -4,7 +4,7 @@ NOTE: This package is a work-in-progress. No support is provided, use at own ris
 
 ## Installation
 
-This package is Windows-only for now and not yet published on npm.
+This package is Windows-only for now.
 
 From admin command prompt:
 ```sh
